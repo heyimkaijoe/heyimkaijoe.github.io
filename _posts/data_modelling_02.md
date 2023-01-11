@@ -1,5 +1,5 @@
 ---
-title: 資料建模101 - 01
+title: 資料建模101 - 02
 categories: []
 tags: []
 ---
