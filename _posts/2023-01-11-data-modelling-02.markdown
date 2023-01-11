@@ -1,7 +1,9 @@
 ---
 title: 資料建模101 - 02
-categories: []
-tags: []
+date: 2023-01-11
+categories: [data_modelling]
+tags: [data_modelling]
+published: true
 ---
 
 本篇我想深入探討資料建模的基石－實體、屬性和關係。我們會先聚焦在它們本身和其用途，再來才是套用在它們身上的規則和限制。那些規則和限制代表了現實世界的商業規則（Business Rules）。

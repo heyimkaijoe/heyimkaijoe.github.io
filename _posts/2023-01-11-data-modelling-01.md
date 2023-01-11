@@ -1,7 +1,9 @@
 ---
 title: 資料建模101 - 01
-categories: []
-tags: []
+date: 2023-01-11
+categories: [data_modelling]
+tags: [data_modelling]
+published: true
 ---
 
 嗨各位，我想以此系列文章來記錄我從零開始學習資料建模基礎一路上的種種。
